@@ -1,6 +1,6 @@
 //initiate Game STATEs
 var PLAY = 1;
-var END = 0;
+var END = 4;
 var gameState = PLAY;
 
 var trex, trex_running, trex_collided;
